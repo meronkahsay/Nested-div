@@ -1,0 +1,8 @@
+.outer{
+border:dotted greenyellow;
+}
+.inner{
+    padding: 20px;
+    margin: 5%;
+    border:solid 1px pink;
+}
